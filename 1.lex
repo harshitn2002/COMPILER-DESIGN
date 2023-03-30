@@ -1,4 +1,4 @@
-/Count lines,tabs,spaces and characters
+//Count lines,tabs,spaces and characters
 %{
     //#include<stdio.h>
     int ch=0,bl=0,ln=0,wr=0;
